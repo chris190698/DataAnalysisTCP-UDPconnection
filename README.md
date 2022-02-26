@@ -10,3 +10,5 @@
 - Sviluppare una filiera KDD
 - Predizione del testing set
 - Valutare il pattern
+
+##Guarda la presentazione
