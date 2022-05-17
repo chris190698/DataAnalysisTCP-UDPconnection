@@ -11,7 +11,8 @@
 - Predizione del testing set
 - Valutare il pattern
 
-##Guarda la presentazione
+## Guarda la presentazione
+
 ![alt text](https://github.com/chris190698/dataAnalisys/blob/main/Progetto%20analisi%20dei%20dati%20per%20la%20sicurezza_page-0001.jpg)
 ![alt text](https://github.com/chris190698/dataAnalisys/blob/main/Progetto%20analisi%20dei%20dati%20per%20la%20sicurezza_page-0002.jpg)
 ![alt text](https://github.com/chris190698/dataAnalisys/blob/main/Progetto%20analisi%20dei%20dati%20per%20la%20sicurezza_page-0003.jpg)
