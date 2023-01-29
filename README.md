@@ -1,4 +1,4 @@
-# Data Analisys fro TCP/UDP connection
+# Data Analysis fro TCP/UDP connection
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
